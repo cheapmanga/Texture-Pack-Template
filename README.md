@@ -6,3 +6,5 @@ Recommended tools:
 - .arc editor: https://github.com/PhoenixARC/MUArchiveEditor
   - .swf editor: https://github.com/jindrapetrik/jpexs-decompiler
 - image editor: https://libresprite.github.io/#!/
+
+Tutorial: [https://youtu.be/gxs1tqKz9Mo](https://youtu.be/gxs1tqKz9Mo)
