@@ -1,6 +1,8 @@
 # Texture-Pack-Template
 Minecraft LCE template for texture-pack making.
 
+FOR MANUAL MAKING:
+
 If you use it:
 - The icon of your pack will be the default one
 - The name and the decription will be blank (idk why)
@@ -12,3 +14,6 @@ Recommended tools:
 - image editor: [https://libresprite.github.io/#!/](https://github.com/LibreSprite/LibreSprite)
 
 Tutorial: [https://youtu.be/gxs1tqKz9Mo](https://youtu.be/gxs1tqKz9Mo) (the links in the description are outdated)
+
+FOR AUTOMATIC MAKING (BUGGY):
+https://github.com/ASAOddball1/Java-to-MLCE-Texture-Pack-Converter
