@@ -2,7 +2,7 @@
 Minecraft LCE template for texture-pack making.
 
 Recommended tools:
-- https://github.com/LCERD/PCK-Studio
-- https://github.com/PhoenixARC/MUArchiveEditor
-  - https://github.com/jindrapetrik/jpexs-decompiler
-- https://libresprite.github.io/#!/
+- .pck editor: https://github.com/LCERD/PCK-Studio
+- .arc editor: https://github.com/PhoenixARC/MUArchiveEditor
+- .swf editor: https://github.com/jindrapetrik/jpexs-decompiler
+- image editor: https://libresprite.github.io/#!/
