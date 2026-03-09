@@ -1,6 +1,12 @@
 # Texture-Pack-Template
 Minecraft LCE template for texture-pack making.
 
+In this README.md you'll find:
+- A Manual method
+- An automatic-making method
+- A step-by-step guide
+- A video tutorial
+
 ## For manual making:
 
 Description
