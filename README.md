@@ -1,5 +1,5 @@
 # Texture-Pack-Template
-Minecraft LCE template and guide for texture-pack making.
+Minecraft LCE **template** and **guide** for texture-pack making.
 
 In this **README.md** you'll find:
 - A **Manual** method
@@ -20,9 +20,9 @@ The icon of the pack is the default one and the name/decription are be blank (id
 
 ## Needed tools
 
-https://github.com/LCERD/PCK-Studio to edit `.pck` files  
-https://github.com/PhoenixARC/MUArchiveEditor to edit `.arc` files  
-https://github.com/jindrapetrik/jpexs-decompiler to edit/extract `.swf` files  
+- https://github.com/LCERD/PCK-Studio to edit `.pck` files  
+- https://github.com/PhoenixARC/MUArchiveEditor to edit `.arc` files  
+- https://github.com/jindrapetrik/jpexs-decompiler to edit/extract `.swf` files  
 You can use any image editor
 
 
@@ -30,11 +30,15 @@ You can use any image editor
 
 ## Manual Method
 
+---
 
+## Tutorial
+
+[https://youtu.be/gxs1tqKz9Mo](https://youtu.be/gxs1tqKz9Mo) (the links in the description are outdated)
 
 ---
 
-Tutorial: [https://youtu.be/gxs1tqKz9Mo](https://youtu.be/gxs1tqKz9Mo) (the links in the description are outdated)
+## FOR AUTOMATIC MAKING
 
-FOR AUTOMATIC MAKING (BUGGY):
+The tool is buggy, you may need to finish the work yourself  
 https://github.com/ASAOddball1/Java-to-MLCE-Texture-Pack-Converter
