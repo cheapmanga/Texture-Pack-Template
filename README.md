@@ -24,12 +24,12 @@ The icon of the pack is the default one and the name/decription are be blank (id
 - https://github.com/jindrapetrik/jpexs-decompiler to edit/extract `.swf` files  
 You can use any image editor
 
-Feel free to use `https://www.virustotal.com/gui/home/upload` if you want to scan those tools.
+Feel free to use `https://www.virustotal.com/gui/home/upload` if you want to scan those tools.  
 If you don't want to use the provided tools, you can search other ones, there are plenty out there :)
 
 ---
 
-## Manual Method
+## **Manual** Method
 
 You first need to extract `Texture-pack.Template.v4.zip`, inside, you can find a file and a folder.  
 We will first look at `x16Data.pck` inside the `Data` folder.
@@ -38,7 +38,12 @@ Then you need to launch PCK Studio.
 - When you first execute PCK Studio, you may have a screen telling you that "Windows protected you computer".  
   Don't worry, the program just isn't signed since it cost money.
 
-You need to open the file with drag and drop or by locating in in the "File" section
+You need to open the file with drag and drop or by locating in in the "File" section.  
+You should now be seeing this
+<img width="1057" height="707" alt="image" src="https://github.com/user-attachments/assets/e87e49ec-a151-45d4-a419-0965e976a1ca" />
+
+To modify the item texture, you first need to right-click `item.png` and then extact it to any location on your computer.
+
 
 ---
 
@@ -48,7 +53,8 @@ You need to open the file with drag and drop or by locating in in the "File" sec
 
 ---
 
-## FOR AUTOMATIC MAKING
+## **Automatic** Method
+PLEASE READ THE MANUAL GUIDE BEFORE
 
 The tool is buggy, you may need to finish the work yourself  
 https://github.com/ASAOddball1/Java-to-MLCE-Texture-Pack-Converter
