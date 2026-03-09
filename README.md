@@ -1,9 +1,9 @@
 # Texture-Pack-Template
 Minecraft LCE template for texture-pack making.
 
-FOR MANUAL MAKING:
+## For manual making:
 
-If you use it:
+Description
 - The icon of your pack will be the default one
 - The name and the decription will be blank (idk why)
 
