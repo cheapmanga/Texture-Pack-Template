@@ -1,8 +1,8 @@
 # Texture-Pack-Template
-Minecraft LCE **template** and **guide** for texture-pack making.
+Minecraft LCE **template** and a detailed **guide** for texture-pack making.
 
 In this **README.md** you'll find:
-- A **Manual** (guide) method
+- A **Manual** (detailed guide) method
 - An **automatic** method
 - A video tutorial
 
@@ -40,15 +40,24 @@ Then you need to launch PCK Studio.
 
 You need to open the file with drag and drop or by locating in in the "File" section.  
 You should now be seeing this
+
 <img width="1057" height="707" alt="image" src="https://github.com/user-attachments/assets/e87e49ec-a151-45d4-a419-0965e976a1ca" />
 
-To modify the item texture, you first need to right-click `item.png` and then extact it to any location on your computer.  
-I also recommend to delete it now.  
+### Modifying item textures
+You first need to right-click `item.png` and then extact it to any location on your computer.  
+I recommend to delete it now.  
 Open it and as you can see, all of the items are arranged in a specific way, they all are in a 16x16 box.  
-If you want to edit one item directly or you can paste a texture you got from another pack, just make sure you are moving it to the corresponding item 16x16 box.  
+You can edit one item directly or you can paste a texture you got from another pack, just make sure you are moving it to the corresponding item 16x16 box.  
 You can edit as much item as you want.  
-You now have to put it in the exact
+You now have to put it in the exact same location as it was before, you can drag and drop.  
 
+### Modifying block textures
+You first need to right-click `terrain.png` and then extact it to any location on your computer. 
+I recommend to delete it now.  
+Open it and as you can see, all of the blocks are arranged in a specific way, they all are in 16x16 resolution.  
+You can edit one block directly or you can paste a texture you got from another pack, just make sure you are moving it to the exact same block.  
+You can edit as much item as you want. 
+You now have to put it in the exact same location as it was before, you can drag and drop.  
 
 ---
 
