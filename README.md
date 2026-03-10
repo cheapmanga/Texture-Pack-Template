@@ -31,13 +31,13 @@ If you don't want to use the provided tools, you can search other ones, there ar
 
 # **Manual** Method
 
-Before **any** customisation, you need to extract `Texture-pack.Template.v4.zip`.
+Before **any** customisation, you need to extract `Texture-pack.Template.v4.zip`.  
 
 ## For items/blocks
 
 We'll look at `x16Data.pck` inside the `Data` folder.
 
-Then you need to launch PCK Studio.
+Then you need to launch **PCK Studio**.
 - When you first execute PCK Studio, you may have a screen telling you that "Windows protected you computer".  
   Don't worry, the program just isn't signed since it cost money.
 
@@ -66,7 +66,9 @@ You now have to put it in the exact same location as it was before, you can drag
 
 ## For GUIs
 
-We'll look at `x16Data.pck` inside the `Data` folder.
+We'll look at `media.arc` inside the `Data` folder.  
+You need to extact it with the program of your choice, for me it is **MUArchiveEditor**
+
 
 ---
 
