@@ -31,7 +31,7 @@ If you don't want to use the provided tools, you can search other ones, there ar
 
 # **Manual** Method
 
-Before any customisation, you need to extract `Texture-pack.Template.v4.zip`.
+Before **any** customisation, you need to extract `Texture-pack.Template.v4.zip`.
 
 ## For items/blocks
 
