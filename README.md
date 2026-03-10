@@ -64,12 +64,14 @@ You can edit one block directly or you can paste a texture you got from another 
 You can edit as much item as you want.  
 You now have to put it in the exact same location as it was before, you can drag and drop.  
 
-## For GUIs
+## Modifying GUIs
 
 We'll look at `media.arc` inside the `Data` folder.  
 You need to extact it with the program of your choice, for me it is **MUArchiveEditor**
 
+## Modifying name
 
+You'll need to edit the languages.loc file with a hex-editor
 ---
 
 ## Tutorial
