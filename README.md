@@ -44,6 +44,7 @@ You should now be seeing this
 <img width="1057" height="707" alt="image" src="https://github.com/user-attachments/assets/e87e49ec-a151-45d4-a419-0965e976a1ca" />
 
 ### Modifying item textures
+
 You first need to right-click `item.png` and then extact it to any location on your computer.  
 I recommend to delete it now.  
 Open it and as you can see, all of the items are arranged in a specific way, they all are in a 16x16 box.  
@@ -52,12 +53,15 @@ You can edit as much item as you want.
 You now have to put it in the exact same location as it was before, you can drag and drop.  
 
 ### Modifying block textures
+
 You first need to right-click `terrain.png` and then extact it to any location on your computer. 
 I recommend to delete it now.  
 Open it and as you can see, all of the blocks are arranged in a specific way, they all are in 16x16 resolution.  
 You can edit one block directly or you can paste a texture you got from another pack, just make sure you are moving it to the exact same block.  
 You can edit as much item as you want. 
 You now have to put it in the exact same location as it was before, you can drag and drop.  
+
+###
 
 ---
 
