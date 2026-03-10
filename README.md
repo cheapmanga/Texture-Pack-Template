@@ -42,7 +42,12 @@ You need to open the file with drag and drop or by locating in in the "File" sec
 You should now be seeing this
 <img width="1057" height="707" alt="image" src="https://github.com/user-attachments/assets/e87e49ec-a151-45d4-a419-0965e976a1ca" />
 
-To modify the item texture, you first need to right-click `item.png` and then extact it to any location on your computer.
+To modify the item texture, you first need to right-click `item.png` and then extact it to any location on your computer.  
+I also recommend to delete it now.  
+Open it and as you can see, all of the items are arranged in a specific way, they all are in a 16x16 box.  
+If you want to edit one item directly or you can paste a texture you got from another pack, just make sure you are moving it to the corresponding item 16x16 box.  
+You can edit as much item as you want.  
+You now have to put it in the exact
 
 
 ---
