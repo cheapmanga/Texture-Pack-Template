@@ -10,14 +10,14 @@ The icon of the pack is the default one and the name/decription are be blank (id
 
 ---
 
-## Documentation
+# Documentation
 `.pck` is the primary file extension you will find  
 `.arc` is the file extension for GUI related things  
 `.swf` is what you find when extracting `.pck` files
 
 ---
 
-## Needed tools
+# Needed tools
 
 - https://github.com/LCERD/PCK-Studio to edit `.pck` files  
 - https://github.com/PhoenixARC/MUArchiveEditor to edit `.arc` files  
@@ -29,10 +29,13 @@ If you don't want to use the provided tools, you can search other ones, there ar
 
 ---
 
-## **Manual** Method
+# **Manual** Method
 
-You first need to extract `Texture-pack.Template.v4.zip`, inside, you can find a file and a folder.  
-We will first look at `x16Data.pck` inside the `Data` folder.
+Before any customisation, you need to extract `Texture-pack.Template.v4.zip`.
+
+## For items/blocks
+
+We'll look at `x16Data.pck` inside the `Data` folder.
 
 Then you need to launch PCK Studio.
 - When you first execute PCK Studio, you may have a screen telling you that "Windows protected you computer".  
@@ -58,10 +61,12 @@ You first need to right-click `terrain.png` and then extact it to any location o
 I recommend to delete it now.  
 Open it and as you can see, all of the blocks are arranged in a specific way, they all are in 16x16 resolution.  
 You can edit one block directly or you can paste a texture you got from another pack, just make sure you are moving it to the exact same block.  
-You can edit as much item as you want. 
+You can edit as much item as you want.  
 You now have to put it in the exact same location as it was before, you can drag and drop.  
 
-###
+## For GUIs
+
+We'll look at `x16Data.pck` inside the `Data` folder.
 
 ---
 
