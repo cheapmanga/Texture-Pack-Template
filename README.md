@@ -70,7 +70,10 @@ When you are finished modifying, save as and replace the old `x16Data.pck` with 
 ## Modifying GUIs
 
 We'll look at `media.arc` inside the `Data` folder.  
-You need to extact it with the program of your choice, for me it is **MUArchiveEditor**.
+You need to extact it with the program of your choice, for me it is **MUArchiveEditor**.  
+Extract all the files, and edit them in your `.swf` file editor.  
+Then repack it, save as and replace it in the same location.
+Good luck!
 
 ## Modifying name
 
