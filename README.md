@@ -31,7 +31,9 @@ If you don't want to use the provided tools, you can search other ones, there ar
 
 # **Manual** Method
 
-Before **any** customisation, you need to extract `Texture-pack.Template.v4.zip`.  
+Before **any** customisation, you need to:
+- download/extract `Texture-pack.Template.v4.zip`.
+- download/extract `PCK Studio`.
 
 ## For items/blocks
 
@@ -71,11 +73,16 @@ You need to extact it with the program of your choice, for me it is **MUArchiveE
 
 ## Modifying name
 
-We'll look at
-You'll need to edit the languages.loc file with a hex-editor.
+We'll look at `TexturePack.pck`.  
+You'll need to edit the languages.loc file with a hex-editor.  
+PS: It's a pain
 
 ## Modifying icon/banner/preview
- 
+We'll look at `x16Info.pck` in `TexturePack.pck`.  
+<img width="1061" height="708" alt="image" src="https://github.com/user-attachments/assets/06210903-cbf8-4756-bd0d-54177a7eb81f" />  
+You need to extract it and open it
+
+
 
 ---
 
