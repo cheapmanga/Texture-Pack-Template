@@ -35,13 +35,12 @@ Before **any** customisation, you need to:
 - download/extract `Texture-pack.Template.v4.zip`.
 - download/extract `PCK Studio`.
 
+When you first execute **PCK Studio**, you may have a screen telling you that "Windows protected you computer".  
+Don't worry, the program just isn't signed since it cost money.
+
 ## For items/blocks
 
 We'll look at `x16Data.pck` inside the `Data` folder.
-
-Then you need to launch **PCK Studio**.
-- When you first execute PCK Studio, you may have a screen telling you that "Windows protected you computer".  
-  Don't worry, the program just isn't signed since it cost money.
 
 You need to open the file with drag and drop or by locating in in the "File" section.  
 You should now be seeing this
@@ -56,6 +55,7 @@ Open it and as you can see, all of the items are arranged in a specific way, the
 You can edit one item directly or you can paste a texture you got from another pack, just make sure you are moving it to the corresponding item 16x16 box.  
 You can edit as much item as you want.  
 You now have to put it in the exact same location as it was before, you can drag and drop.  
+When you are finished modifying, save as and replace the old `x16Data.pck` with the new one.
 
 ### Modifying block textures
 
@@ -65,6 +65,7 @@ Open it and as you can see, all of the blocks are arranged in a specific way, th
 You can edit one block directly or you can paste a texture you got from another pack, just make sure you are moving it to the exact same block.  
 You can edit as much item as you want.  
 You now have to put it in the exact same location as it was before, you can drag and drop.  
+When you are finished modifying, save as and replace the old `x16Data.pck` with the new one.
 
 ## Modifying GUIs
 
@@ -80,7 +81,11 @@ PS: It's a pain
 ## Modifying icon/banner/preview
 We'll look at `x16Info.pck` in `TexturePack.pck`.  
 <img width="1061" height="708" alt="image" src="https://github.com/user-attachments/assets/06210903-cbf8-4756-bd0d-54177a7eb81f" />  
-You need to extract it and open it
+You first need to right-click it and then extact it to any location on your computer.  
+Open it in PCK Studio.  
+And start modifying! (Your images need to be at the correct size)
+When you are finished modifying, save as and replace the old `x16Data.pck` with the new one.
+
 
 
 
