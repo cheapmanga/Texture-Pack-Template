@@ -24,7 +24,7 @@ The icon of the pack is the default one and the name/decription are be custom
 - https://github.com/jindrapetrik/jpexs-decompiler to edit/extract `.swf` files  
 You can use any image editor
 
-Feel free to use `https://www.virustotal.com/gui/home/upload` if you want to scan those tools.  
+Feel free to use https://www.virustotal.com/gui/home/upload if you want to scan those tools.  
 If you don't want to use the provided tools, you can search other ones, there are plenty out there :)
 
 ---
