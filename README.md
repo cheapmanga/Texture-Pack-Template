@@ -84,10 +84,8 @@ We'll look at `x16Info.pck` in `TexturePack.pck`.
 You first need to right-click it and then extact it to any location on your computer.  
 Open it in PCK Studio.  
 And start modifying! (Your images need to be at the correct size)
-When you are finished modifying, save as and replace the old `x16Data.pck` with the new one.
-
-
-
+When you are finished modifying, save as and replace the old `x16Data.pck` with the new one inside `TexturePack.pck`.  
+Then save as and replace the old `TexturePack.pck` with the new one.
 
 ---
 
