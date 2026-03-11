@@ -6,7 +6,7 @@ In this **README.md** you'll find:
 - An **automatic** method
 - A video tutorial
 
-The icon of the pack is the default one and the name/decription are be blank (idk why, plz help)
+The icon of the pack is the default one and the name/decription are be custom
 
 ---
 
