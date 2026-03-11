@@ -67,11 +67,16 @@ You now have to put it in the exact same location as it was before, you can drag
 ## Modifying GUIs
 
 We'll look at `media.arc` inside the `Data` folder.  
-You need to extact it with the program of your choice, for me it is **MUArchiveEditor**
+You need to extact it with the program of your choice, for me it is **MUArchiveEditor**.
 
 ## Modifying name
 
-You'll need to edit the languages.loc file with a hex-editor
+We'll look at
+You'll need to edit the languages.loc file with a hex-editor.
+
+## Modifying icon/banner/preview
+ 
+
 ---
 
 ## Tutorial
