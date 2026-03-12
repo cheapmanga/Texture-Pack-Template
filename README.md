@@ -73,7 +73,10 @@ We'll look at `media.arc` inside the `Data` folder.
 You need to extact it with the program of your choice, for me it is **MUArchiveEditor**.  
 Extract all the files, and edit them in your `.swf` file editor.  
 Then repack it, save as and replace it in the same location.  
-Good luck!
+
+If you can't figure out how to repack .arc files, here's a screenshot on how:  
+<img width="628" height="549" alt="image" src="https://github.com/user-attachments/assets/c6924bca-6787-42ce-b1e1-aa68892f40f1" />
+
 
 ## Modifying name
 
