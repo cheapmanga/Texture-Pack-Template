@@ -81,6 +81,11 @@ We'll look at `TexturePack.pck`.
 You'll need to edit the languages.loc file with a hex-editor.  
 PS: It's a pain
 
+Here is a tutorial, it seems easy because Gamer99 already done it two or three times.  
+Start by editing the Display Name first, it's easier.  
+MAKE A BACKUP OF YOUR `languages.loc` BEFORE EDITING IT  
+https://youtu.be/CoDBGkWRDbM
+
 ## Modifying icon/banner/preview
 We'll look at `x16Info.pck` in `TexturePack.pck`.  
 <img width="1061" height="708" alt="image" src="https://github.com/user-attachments/assets/06210903-cbf8-4756-bd0d-54177a7eb81f" />  
