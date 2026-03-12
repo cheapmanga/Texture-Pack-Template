@@ -94,6 +94,7 @@ https://youtu.be/CoDBGkWRDbM
 
 ## Modifying icon/banner/preview
 We'll look at `x16Info.pck` in `TexturePack.pck`.  
+
 <img width="1061" height="708" alt="image" src="https://github.com/user-attachments/assets/06210903-cbf8-4756-bd0d-54177a7eb81f" />  
 You first need to right-click it and then extact it to any location on your computer.  
 Open it in PCK Studio.  
