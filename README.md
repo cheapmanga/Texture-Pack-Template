@@ -1,5 +1,6 @@
 # Texture-Pack-Template
 Minecraft LCE **template** and a detailed **guide** for texture-pack making.
+This template was made by CheapManga and Gamer99
 
 In this **README.md** you'll find:
 - A **Manual** (detailed guide) method
