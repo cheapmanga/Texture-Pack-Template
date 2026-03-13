@@ -6,7 +6,8 @@ In this **README.md** you'll find:
 - An **automatic** method
 - A video tutorial
 
-The icon of the pack is the default one and the name/decription are be custom
+<img width="2487" height="1205" alt="image" src="https://github.com/user-attachments/assets/903d83e5-d2be-414a-acf1-20cda2a8f89d" />
+
 
 ---
 
