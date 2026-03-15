@@ -123,6 +123,7 @@ Open it in PCK Studio.
 And start modifying! (Your images need to be at the correct size)
 When you are finished modifying, save as and replace the old `x16Data.pck` with the new one inside `TexturePack.pck`.  
 Then save as and replace the old `TexturePack.pck` with the new one.  
+
 If you finished your texture pack, the folder goes in `"LCEWindows64\Windows64Media\DLC"`. You can now start your game and select your pack in the apropriate section when joining/creating a world.
 
 ---
