@@ -53,7 +53,8 @@ Before **any** customisation, you need to:
 When you first execute **PCK Studio**, you may have a screen telling you that "Windows protected you computer".  
 Don't worry, the program just isn't signed since it cost money.
 
-## For items/blocks
+
+# For items/blocks
 
 We'll look at `x16Data.pck` inside the `Data` folder.
 
@@ -62,7 +63,8 @@ You should now be seeing this
 
 <img width="1057" height="707" alt="image" src="https://github.com/user-attachments/assets/e87e49ec-a151-45d4-a419-0965e976a1ca" />
 
-### Modifying item textures
+
+## Modifying item textures
 
 You first need to right-click `item.png` and then extact it to any location on your computer.  
 I recommend to delete it now.  
@@ -72,7 +74,8 @@ You can edit as much item as you want.
 You now have to put it in the exact same location as it was before, you can drag and drop.  
 When you are finished modifying, save as and replace the old `x16Data.pck` with the new one.
 
-### Modifying block textures
+
+## Modifying block textures
 
 You first need to right-click `terrain.png` and then extact it to any location on your computer. 
 I recommend to delete it now.  
