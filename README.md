@@ -6,7 +6,7 @@ In this **README.md** you'll find:
 
 - Documentation
 - A list of the needed tools
-- GUIDE
+- Guide
   - Modifying item textures 
   - Modifying block textures
   - Modifying GUIs
