@@ -47,7 +47,7 @@ https://github.com/TNTaddicted/MCLCE-Texture-Pack-Editor
 # **Manual** Method
 
 Before **any** customisation, you need to:
-- download/extract `Texture-pack.Template.v4.zip`.
+- download/extract `Texture-pack.Template.v5.zip`.
 - download/extract `PCK Studio`.
 
 When you first execute **PCK Studio**, you may have a screen telling you that "Windows protected you computer".  
