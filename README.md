@@ -72,7 +72,8 @@ Open it and as you can see, all of the items are arranged in a specific way, the
 You can edit one item directly or you can paste a texture you got from another pack, just make sure you are moving it to the corresponding item 16x16 box.  
 You can edit as much item as you want.  
 You now have to put it in the exact same location as it was before, you can drag and drop.  
-When you are finished modifying, save as and replace the old `x16Data.pck` with the new one.
+When you are finished modifying, save as and replace the old `x16Data.pck` with the new one.  
+If you finished your texture pack, the folder goes in `"LCEWindows64\Windows64Media\DLC"`. You can now start your game and select your pack in the apropriate section when joining/creating a world.
 
 
 ## Modifying block textures
@@ -83,7 +84,8 @@ Open it and as you can see, all of the blocks are arranged in a specific way, th
 You can edit one block directly or you can paste a texture you got from another pack, just make sure you are moving it to the exact same block.  
 You can edit as much item as you want.  
 You now have to put it in the exact same location as it was before, you can drag and drop.  
-When you are finished modifying, save as and replace the old `x16Data.pck` with the new one.
+When you are finished modifying, save as and replace the old `x16Data.pck` with the new one.  
+If you finished your texture pack, the folder goes in `"LCEWindows64\Windows64Media\DLC"`. You can now start your game and select your pack in the apropriate section when joining/creating a world.
 
 ## Modifying GUIs
 
@@ -91,6 +93,7 @@ We'll look at `media.arc` inside the `Data` folder.
 You need to extact it with the program of your choice, for me it is **MUArchiveEditor**.  
 Extract all the files, and edit them in your `.swf` file editor.  
 Then repack it, save as and replace it in the same location.  
+If you finished your texture pack, the folder goes in `"LCEWindows64\Windows64Media\DLC"`. You can now start your game and select your pack in the apropriate section when joining/creating a world.  
 
 If you can't figure out how to repack .arc files, here's a screenshot on how:  
 <img width="628" height="549" alt="image" src="https://github.com/user-attachments/assets/c6924bca-6787-42ce-b1e1-aa68892f40f1" />
@@ -109,6 +112,7 @@ MAKE A BACKUP OF YOUR `languages.loc` BEFORE EDITING IT
 
 <img width="1336" height="344" alt="image" src="https://github.com/user-attachments/assets/696b6e57-4ad2-4dad-b45a-e1bf85a70214" />
 
+If you finished your texture pack, the folder goes in `"LCEWindows64\Windows64Media\DLC"`. You can now start your game and select your pack in the apropriate section when joining/creating a world.
 
 ## Modifying icon/banner/preview
 We'll look at `x16Info.pck` in `TexturePack.pck`.  
@@ -118,7 +122,8 @@ You first need to right-click it and then extact it to any location on your comp
 Open it in PCK Studio.  
 And start modifying! (Your images need to be at the correct size)
 When you are finished modifying, save as and replace the old `x16Data.pck` with the new one inside `TexturePack.pck`.  
-Then save as and replace the old `TexturePack.pck` with the new one.
+Then save as and replace the old `TexturePack.pck` with the new one.  
+If you finished your texture pack, the folder goes in `"LCEWindows64\Windows64Media\DLC"`. You can now start your game and select your pack in the apropriate section when joining/creating a world.
 
 ---
 
