@@ -3,9 +3,17 @@ Minecraft LCE **template** and a detailed **guide** for texture-pack making.
 This template was made by CheapManga and Gamer99
 
 In this **README.md** you'll find:
-- A **Manual** (detailed guide) method
+
+- Documentation
+- A list of the needed tools
+- A **Manual** method (detailed guide) 
+  - Modifying item textures 
+  - Modifying block textures
+  - Modifying GUIs
+  - Modifying name/description (.loc file) 
+  - Modifying icon/banner/preview
+  - A tutorial
 - An **automatic** method
-- A video tutorial
 
 <img width="2487" height="1205" alt="image" src="https://github.com/user-attachments/assets/903d83e5-d2be-414a-acf1-20cda2a8f89d" />
 
@@ -21,13 +29,18 @@ In this **README.md** you'll find:
 
 # Needed tools
 
-- https://github.com/LCERD/PCK-Studio to edit `.pck` files  
-- https://github.com/PhoenixARC/MUArchiveEditor to edit `.arc` files  
-- https://github.com/jindrapetrik/jpexs-decompiler to edit/extract `.swf` files  
+- [PCK Studio](https://github.com/LCERD/PCK-Studio) to edit `.pck` files  
+- [MUArchiveEditor](https://github.com/PhoenixARC/MUArchiveEditor) to edit `.arc` files  
+- [jpexs-decompiler](https://github.com/jindrapetrik/jpexs-decompiler) to edit/extract `.swf` files  
 You can use any image editor
+You can use any hex edito (for .loc files customization)
 
-Feel free to use https://www.virustotal.com/gui/home/upload if you want to scan those tools.  
+Feel free to use **[Virustotal](https://www.virustotal.com/gui/home/upload)** if you want to scan those tools.  
 If you don't want to use the provided tools, you can search other ones, there are plenty out there :)
+
+There is a tool that lets you do all the actions of the said tools, but in one place.
+It is still in developement.
+https://github.com/TNTaddicted/MCLCE-Texture-Pack-Editor
 
 ---
 
@@ -80,7 +93,7 @@ If you can't figure out how to repack .arc files, here's a screenshot on how:
 <img width="628" height="549" alt="image" src="https://github.com/user-attachments/assets/c6924bca-6787-42ce-b1e1-aa68892f40f1" />
 
 
-## Modifying name (.loc file)
+## Modifying name/description (.loc file)
 
 We'll look at `TexturePack.pck`.  
 You'll need to edit the languages.loc file with a hex-editor.  
@@ -90,7 +103,7 @@ Here is a tutorial, it seems easy because Gamer99 already done it two or three t
 Start by editing the Display Name first, it's easier.  
 MAKE A BACKUP OF YOUR `languages.loc` BEFORE EDITING IT  
 You need to make sure that the file size stays the same when editing because otherwise it won't work.  
-https://youtu.be/CoDBGkWRDbM  
+**https://youtu.be/CoDBGkWRDbM**  
 <img width="1336" height="344" alt="image" src="https://github.com/user-attachments/assets/696b6e57-4ad2-4dad-b45a-e1bf85a70214" />
 
 
