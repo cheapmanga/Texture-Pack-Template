@@ -102,12 +102,10 @@ We'll look at `TexturePack.pck`.
 You'll need to edit the languages.loc file with a hex-editor.  
 PS: It's a pain
 
-Here is a tutorial, it seems easy because Gamer99 already done it two or three times.  
+Here is a tutorial, **https://youtu.be/CoDBGkWRDbM**  
+It seems easy because Gamer99 already done it two or three times.  
 Start by editing the Display Name first, it's easier.  
 MAKE A BACKUP OF YOUR `languages.loc` BEFORE EDITING IT  
-You need to make sure that the file size stays the same when editing because otherwise it won't work.  
-
-**https://youtu.be/CoDBGkWRDbM**  
 
 <img width="1336" height="344" alt="image" src="https://github.com/user-attachments/assets/696b6e57-4ad2-4dad-b45a-e1bf85a70214" />
 
