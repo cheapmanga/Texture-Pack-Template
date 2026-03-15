@@ -80,7 +80,7 @@ If you can't figure out how to repack .arc files, here's a screenshot on how:
 <img width="628" height="549" alt="image" src="https://github.com/user-attachments/assets/c6924bca-6787-42ce-b1e1-aa68892f40f1" />
 
 
-## Modifying name
+## Modifying name (.loc file)
 
 We'll look at `TexturePack.pck`.  
 You'll need to edit the languages.loc file with a hex-editor.  
