@@ -1,4 +1,4 @@
-# Texture-Pack-Template
+# Texture-Pack-Template ![GitHub All Releases](https://img.shields.io/github/downloads/CheapManga/Texture-Pack-Template/total)
 Minecraft LCE **template** and a detailed **guide** for texture-pack making.
 This template was made by CheapManga and Gamer99
 
