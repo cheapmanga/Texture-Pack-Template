@@ -90,6 +90,7 @@ When you are finished modifying, save as and replace the old `x16Data.pck` with 
 We'll look at `media.arc` inside the `Data` folder.  
 You need to extact it with the program of your choice, for me it is **MUArchiveEditor**.  
 Extract all the files, and edit them in your `.swf` file editor.  
+To edit inventory/toolbar, you have to open the skinHDgraphicsHUD.SWF and the skingraphicsHUD.SWF
 Then repack it, save as and replace it in the same location.  
 
 If you can't figure out how to repack .arc files, here's a screenshot on how:  
