@@ -38,8 +38,7 @@ You can use any hex edito (for .loc files customization)
 Feel free to use **[Virustotal](https://www.virustotal.com/gui/home/upload)** if you want to scan those tools.  
 If you don't want to use the provided tools, you can search other ones, there are plenty out there :)
 
-There is a tool that lets you do all the actions of the said tools, but in one place.
-It is still in developement.
+**⚠️** **There is a tool that lets you do all the actions of the said tools, but in one place.
 https://github.com/TNTaddicted/MCLCE-Texture-Pack-Editor
 
 ---
