@@ -145,5 +145,5 @@ https://github.com/ASAOddball1/Java-to-MLCE-Texture-Pack-Converter
 ---
 
 I made my own texture packs if you want:  
-[New Legacy](https://github.com/cheapmanga/New-Legacy)  
-[Little Legacy](https://github.com/cheapmanga/Little_Legacy)
+- [New Legacy](https://github.com/cheapmanga/New-Legacy)  
+- [Little Legacy](https://github.com/cheapmanga/Little_Legacy)
