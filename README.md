@@ -33,7 +33,7 @@ In this **README.md** you'll find:
 - [MUArchiveEditor](https://github.com/PhoenixARC/MUArchiveEditor) to edit `.arc` files  
 - [jpexs-decompiler](https://github.com/jindrapetrik/jpexs-decompiler) to edit/extract `.swf` files  
 You can use any image editor  
-You can use any hex edito (for .loc files customization)
+You can use any hex editor (for .loc files customization)
 
 Feel free to use **[Virustotal](https://www.virustotal.com/gui/home/upload)** if you want to scan those tools.  
 If you don't want to use the provided tools, you can search other ones, there are plenty out there :)
