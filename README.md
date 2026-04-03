@@ -32,7 +32,7 @@ In this **README.md** you'll find:
 - [PCK Studio](https://github.com/LCERD/PCK-Studio) to edit `.pck` files  
 - [MUArchiveEditor](https://github.com/PhoenixARC/MUArchiveEditor) to edit `.arc` files  
 - [jpexs-decompiler](https://github.com/jindrapetrik/jpexs-decompiler) to edit/extract `.swf` files  
-You can use any image editor
+You can use any image editor  
 You can use any hex edito (for .loc files customization)
 
 Feel free to use **[Virustotal](https://www.virustotal.com/gui/home/upload)** if you want to scan those tools.  
